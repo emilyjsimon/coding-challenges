@@ -1,0 +1,10 @@
+---
+title: "Challenge 8"
+author: "Emily Simon"
+format: html
+editor: visual
+---
+
+\"What was the last movie you watched in a theater?"
+
+Oppenheimer
